@@ -3,7 +3,7 @@
 A Python script that generates social media posts by overlaying random quotes on selected images. The posts are saved with customizable text sizes, fonts, and positions. Optionally, logos or trademarks can be added to the images.
 
 ### Create posts in bulk within seconds, ensuring neatness and organization eg:
-<img src="https://github.com/user-attachments/assets/2a3a74f5-1ff9-4ff5-bb51-6560c7dc59de" width="300"/>
+<img src="https://github.com/user-attachments/assets/91e69de7-fdb3-4053-bf8a-6bad54373bdb" width="300"/>
 
 
 ## Features
