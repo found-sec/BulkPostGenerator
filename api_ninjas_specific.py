@@ -26,7 +26,7 @@ def apply_tint(im, tint_color):
 
 # Function to fetch quotes from the API
 def get_quotes_from_api(author_name, num_quotes):
-    api_key = 'lsF7Veyacbi2n4M4lix2ow==apdeMV6V2St8Ec1X'  # Replace with your actual API key
+    api_key = 'YOUR_API_KEY'  # Replace with your actual API key from https://www.api-ninjas.com/
     quotes = []
     try:
         for _ in range(num_quotes):
