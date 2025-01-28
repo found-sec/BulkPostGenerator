@@ -19,7 +19,7 @@ A Python script that generates social media posts by overlaying random quotes on
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/BulkPostGenerator.git
+   git clone https://github.com/found-sec/BulkPostGenerator.git
    cd BulkPostGenerator
    ```
 2. Install Dependencies
