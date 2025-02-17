@@ -4,6 +4,10 @@
 
 ### Create posts in bulk within seconds, ensuring neatness and organization.
 <img src="https://github.com/user-attachments/assets/91e69de7-fdb3-4053-bf8a-6bad54373bdb" width="300"/>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/found-sec/BulkPostGenerator)
+![GitHub License](https://img.shields.io/github/license/found-sec/BulkPostGenerator)
+
 </div>
 
 ## Features
