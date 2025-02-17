@@ -13,7 +13,7 @@
 - Add logos or trademarks to images.
 - Automatically saves the generated posts to an `out/` folder.
 
-## Getting started
+## Installation
 
 1. Clone the repository:
 
@@ -25,11 +25,7 @@
     ```bash
     pip install -r requirements.txt
     ```
-3. Install Dependencies
-    ```bash
-    python <filename>     #Replace with the name of the file you want to execute.
-    ```
-
+    
 # API Ninjas Image Quote Generator
 
 This Python script overlays quotes fetched from the API Ninjas API onto images. It provides customization options such as adding a logo, trademark text, and applying a color tint to the images.
@@ -122,3 +118,6 @@ This Python script overlays quotes from a file onto images. It provides options 
 - utils/BebasNeue.otf is the font being used in the posts, it can be changed with any font file.
 - -YOUR_TRADEMARK can be replaced with eg your social handles.
 - shelby.png can be replaced with your desired logo.
+
+## License
+This project uses the MIT license.
