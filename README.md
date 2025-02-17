@@ -1,20 +1,19 @@
-# Post Generator
+<div align="center">
 
-A Python script that generates social media posts by overlaying random quotes on selected images. The posts are saved with customizable text sizes, fonts, and positions. Optionally, logos or trademarks can be added to the images.
+# Bulk Post Generator
 
-### Create posts in bulk within seconds, ensuring neatness and organization eg:
+### Create posts in bulk within seconds, ensuring neatness and organization.
 <img src="https://github.com/user-attachments/assets/91e69de7-fdb3-4053-bf8a-6bad54373bdb" width="300"/>
-
+</div>
 
 ## Features
-
 
 - Overlay random quotes on images.
 - Customizable text styles.
 - Add logos or trademarks to images.
 - Automatically saves the generated posts to an `out/` folder.
 
-## Installation
+## Getting started
 
 1. Clone the repository:
 
