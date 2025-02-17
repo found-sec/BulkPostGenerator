@@ -1,13 +1,16 @@
-# Post Generator
+<div align="center">
 
-A Python script that generates social media posts by overlaying random quotes on selected images. The posts are saved with customizable text sizes, fonts, and positions. Optionally, logos or trademarks can be added to the images.
+# Bulk Post Generator
 
-### Create posts in bulk within seconds, ensuring neatness and organization eg:
+### Create posts in bulk within seconds, ensuring neatness and organization.
 <img src="https://github.com/user-attachments/assets/91e69de7-fdb3-4053-bf8a-6bad54373bdb" width="300"/>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/found-sec/BulkPostGenerator)
+![GitHub License](https://img.shields.io/github/license/found-sec/BulkPostGenerator)
+
+</div>
 
 ## Features
-
 
 - Overlay random quotes on images.
 - Customizable text styles.
@@ -26,11 +29,7 @@ A Python script that generates social media posts by overlaying random quotes on
     ```bash
     pip install -r requirements.txt
     ```
-3. Install Dependencies
-    ```bash
-    python <filename>     #Replace with the name of the file you want to execute.
-    ```
-
+    
 # API Ninjas Image Quote Generator
 
 This Python script overlays quotes fetched from the API Ninjas API onto images. It provides customization options such as adding a logo, trademark text, and applying a color tint to the images.
@@ -123,3 +122,6 @@ This Python script overlays quotes from a file onto images. It provides options 
 - utils/BebasNeue.otf is the font being used in the posts, it can be changed with any font file.
 - -YOUR_TRADEMARK can be replaced with eg your social handles.
 - shelby.png can be replaced with your desired logo.
+
+## License
+This project uses the MIT license.
