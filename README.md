@@ -125,3 +125,6 @@ This Python script overlays quotes from a file onto images. It provides options 
 
 ## License
 This project uses the MIT license.
+
+## Contributions
+Any contributions will be appreciated, please fork this repo and create a pull request if you would like to contribute.
